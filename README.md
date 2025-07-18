@@ -1,5 +1,5 @@
 # Hello-World
-Author name = Shreyansh sharma
+Author name = Shreyansh (Shreyansh)
 <br>
 just getting introduce with GitHub
 
